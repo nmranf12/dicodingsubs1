@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="Upcoming"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/navigation_past"
+        android:icon="@drawable/ic_past"
+        android:title="Past"
+        tools:ignore="HardcodedText" />
+</menu>
